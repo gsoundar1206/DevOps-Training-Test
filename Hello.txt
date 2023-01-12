@@ -1,1 +1,3 @@
 Hello, Github training
+
+Testing the Git CLI commands and workflow
